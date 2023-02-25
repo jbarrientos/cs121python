@@ -7,6 +7,10 @@ CS 121: Python for DS and ML
 """
 from statistics import mean       
 
+print('+-------------------------------------------------------------+')
+print('| Program to calculate numbers with Python built in functions | ') 
+print('+-------------------------------------------------------------+')
+
 numbers = int(input('How many numbers do you want to calculate? (type 0 to exit) '))
 
 numsList = []

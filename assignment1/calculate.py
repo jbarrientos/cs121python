@@ -37,6 +37,10 @@ def calcMax(numbers):
 
 def calcAvg(numbers):
     return calcTotal(numbers) / len(numbers)
+
+print('+--------------------------------------------------------+')
+print('| Program to calculate numbers using self made functions | ') 
+print('+--------------------------------------------------------+')
         
 
 numbers = int(input('How many numbers do you want to calculate? (type 0 to exit) '))
