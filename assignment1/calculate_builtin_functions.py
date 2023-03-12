@@ -9,9 +9,9 @@ Changes:
 """
 from statistics import mean, mode, median       
 
-print('+--------------------------------------------------------+')
-print('| Program to calculate numbers using self made functions | ') 
-print('+--------------------------------------------------------+')
+print('+-------------------------------------------------------+')
+print('| Program to calculate numbers using builtin functions | ') 
+print('+------------------------------------------------------+')
         
 # Ask the user how many numbers wants to process
 numbers = int(input('How many numbers do you want to calculate? (type 0 to exit) '))
