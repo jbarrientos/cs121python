@@ -49,7 +49,7 @@ for i in range(numbers):
         
 # Evaluate if the list of numbers has at least one number.
 if len(numsList) > 0:  
-    # This code will be executed only if the listof number has at leat one element.
+    # This code will be executed only if the list of numbers has at leat one element.
     print('-------------------------------------------')   
     print('Display each number in a row (Horizontally)')   
     print('-------------------------------------------')   
