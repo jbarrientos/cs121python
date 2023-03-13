@@ -75,7 +75,6 @@ def calcMode(numbers):
     modeKey = ''
     
     for key in modeDict:
-        print(key)
         if(modeDict[key] > modeVal):
             modeVal = modeDict[key]
             modeKey = key
